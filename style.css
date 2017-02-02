@@ -1,0 +1,68 @@
+body{
+  margin: auto;
+}
+#bigcontainer{
+  position: relative;
+  width: 960px;
+  height: 1344px;
+  display: flex;
+  background-image: url(pic.jpg);
+}
+img{
+  position: absolute;
+}
+.texteblanc{
+  color: FFF;
+  position: absolute;
+}
+.prenom{
+top: 1063px;
+}
+.nom{
+font-size: 1.5em;
+top: 1070px;
+}
+.cristianbale{
+left: 120px;
+}
+.michaelcaine{
+  left: 232px;
+}
+.liamneeson{
+left: 330px;
+}
+.katieholmes{
+  left: 446px;
+}
+.garyoldman{
+  left: 565px;
+}
+.and{
+left: 680px;
+top: 1070px;
+}
+.morganfreeman{
+left: 715px;
+}
+.nom, .prenom{
+
+}
+.date{
+color: rgba(218, 166, 109, 1);
+top: 1311px;
+left: 420px;
+position: absolute;
+font-size: 2em;
+}
+.titre{
+top: 1165px;
+left: 50%;
+transform: translateX(-50%);
+font-size: 3em;
+}
+.textcopyrightetautrebetise{
+  color: rgba(218, 166, 109, 1);
+  top: 1165px;
+font-size: 2em;
+z-index: 1;
+}
